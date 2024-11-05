@@ -19,4 +19,5 @@ class Animal {
 const dog = new Animal("Dog", "Dog-species", "Ghew Ghew")
 dog.makeSound()
 
+
 }
